@@ -1,0 +1,9 @@
+Debug/
+Release/Invasion.exe
+Release/Invasion.pdb
+*.opensdf
+*.sdf
+*.obj
+*.log
+*.tlog
+*.suo
